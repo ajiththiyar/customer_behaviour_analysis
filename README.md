@@ -4,7 +4,8 @@
 **Tools:** Python (Pandas) · Docker · Azure SQL Edge · SQL · Tableau
 
 An end-to-end analytics project that transforms 3,900 raw retail transactions into actionable business recommendations — from data cleaning in Python, through structured SQL analysis on a containerized Azure SQL Edge instance, to an interactive Tableau dashboard.
-![alt text](image.png)
+<img width="2752" height="1536" alt="Strategic_Retail_Growth_Analysis_Infographic" src="https://github.com/user-attachments/assets/ec27a9c7-fec9-435f-8c92-3ca24b23b8dc" />
+
 ---
 
 ## 📌 Situation
